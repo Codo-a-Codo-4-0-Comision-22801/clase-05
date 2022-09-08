@@ -1,5 +1,7 @@
 # clase-05
 
+El ultimo commit es desde un fokr
+
 <img src="./docs/img/script_tag.png"/>
 
 ## Ejercicios
